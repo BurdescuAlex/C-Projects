@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545836675 source:c:\users\alex\desktop\facultate\proiectpptemplate_matching\template_matching.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
